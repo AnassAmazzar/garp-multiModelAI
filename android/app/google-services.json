@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "764154441284",
+    "firebase_url": "https://my-grap-projectia-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "my-grap-projectia",
+    "storage_bucket": "my-grap-projectia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764154441284:android:20b093bdcc88400e2a5611",
+        "android_client_info": {
+          "package_name": "garp.grandland.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbzKOG6Z_hwtgxCF8bM6DZDzMFudngJdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764154441284:android:35b6651a8b4906042a5611",
+        "android_client_info": {
+          "package_name": "garp.grandlandx.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbzKOG6Z_hwtgxCF8bM6DZDzMFudngJdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764154441284:android:e65930bab97f9b8d2a5611",
+        "android_client_info": {
+          "package_name": "ma.projectia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbzKOG6Z_hwtgxCF8bM6DZDzMFudngJdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
